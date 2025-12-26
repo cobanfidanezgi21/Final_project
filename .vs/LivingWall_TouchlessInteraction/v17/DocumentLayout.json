@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{651E5A78-9696-6509-CBA7-5D8E7E26E64F}|Assembly-CSharp.csproj|c:\\users\\hp\\livingwall_touchlessinteraction\\assets\\zoneinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E5A78-9696-6509-CBA7-5D8E7E26E64F}|Assembly-CSharp.csproj|solutionrelative:assets\\zoneinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\ElProjesi\\ElTakibi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E5A78-9696-6509-CBA7-5D8E7E26E64F}|Assembly-CSharp.csproj|c:\\users\\hp\\livingwall_touchlessinteraction\\assets\\zonetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E5A78-9696-6509-CBA7-5D8E7E26E64F}|Assembly-CSharp.csproj|solutionrelative:assets\\zonetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E5A78-9696-6509-CBA7-5D8E7E26E64F}|Assembly-CSharp.csproj|c:\\users\\hp\\livingwall_touchlessinteraction\\assets\\handcursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E5A78-9696-6509-CBA7-5D8E7E26E64F}|Assembly-CSharp.csproj|solutionrelative:assets\\handcursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E5A78-9696-6509-CBA7-5D8E7E26E64F}|Assembly-CSharp.csproj|c:\\users\\hp\\livingwall_touchlessinteraction\\assets\\calibrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E5A78-9696-6509-CBA7-5D8E7E26E64F}|Assembly-CSharp.csproj|solutionrelative:assets\\calibrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElTakibi.py",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ElProjesi\\ElTakibi.py",
+              "RelativeDocumentMoniker": "..\\Desktop\\ElProjesi\\ElTakibi.py",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ElProjesi\\ElTakibi.py",
+              "RelativeToolTip": "..\\Desktop\\ElProjesi\\ElTakibi.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-23T16:36:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZoneTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\ZoneTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\ZoneTrigger.cs",
+              "ToolTip": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\ZoneTrigger.cs",
+              "RelativeToolTip": "Assets\\ZoneTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:35:31.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZoneInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\ZoneInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\ZoneInteraction.cs",
+              "ToolTip": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\ZoneInteraction.cs",
+              "RelativeToolTip": "Assets\\ZoneInteraction.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:35:22.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HandCursorController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\HandCursorController.cs",
+              "RelativeDocumentMoniker": "Assets\\HandCursorController.cs",
+              "ToolTip": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\HandCursorController.cs",
+              "RelativeToolTip": "Assets\\HandCursorController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:37:45.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "license.txt",
+              "DocumentMoniker": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\license.txt",
+              "RelativeDocumentMoniker": "Assets\\license.txt",
+              "ToolTip": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\license.txt",
+              "RelativeToolTip": "Assets\\license.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-20T16:58:41.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalibrationManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\CalibrationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CalibrationManager.cs",
+              "ToolTip": "C:\\Users\\hp\\LivingWall_TouchlessInteraction\\Assets\\CalibrationManager.cs",
+              "RelativeToolTip": "Assets\\CalibrationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:38:14.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
